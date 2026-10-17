@@ -1,37 +1,39 @@
-# Hi, I'm Ken 👋
+<div align="center">
 
-### Building digital products under Sayflash
+<br>
 
-I build digital products under **Sayflash**, a home for the ideas and applications I bring to life.
+<h2>Hi there, I'm Ken aka Ken-Razor 👋</h2>
 
-Currently building **ViveTalk** — helping people communicate across languages.
+<p>I'm a developer building digital products under <b>Sayflash</b>.</p>
 
-[Explore Sayflash](https://sayflash.id) · [Discover ViveTalk](https://vivetalk.sayflash.id)
+<p>
+💬 Currently building <b>ViveTalk</b> — connecting people across languages.<br>
+🌱 Learning <b>Mandarin Chinese</b> to bring my products to the Chinese market.<br>
+⚡ From ideas to apps: mobile experiences, backend services, and tools.
+</p>
 
----
+<br>
 
-## 🌱 Currently learning
+<p>
+<img src="https://img.shields.io/badge/REACT_NATIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+<img src="https://img.shields.io/badge/EXPO-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+<img src="https://img.shields.io/badge/REACT-149ECA?style=for-the-badge&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+<img src="https://img.shields.io/badge/GIN-008ECF?style=for-the-badge&logo=gin&logoColor=white" alt="Gin">
+</p>
 
-I'm learning Mandarin as I work toward bringing Sayflash products to the Chinese market.
+<br>
 
-## 🌐 Sayflash
+<p><b>Explore what I'm building</b></p>
 
-My product brand, bringing together the applications and tools I create.
+<p>
+<a href="https://sayflash.id"><img src="https://img.shields.io/badge/SAYFLASH-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Explore Sayflash"></a>
+<a href="https://vivetalk.sayflash.id"><img src="https://img.shields.io/badge/VIVETALK-14B8A6?style=for-the-badge&logo=wechat&logoColor=white" alt="Discover ViveTalk"></a>
+<a href="https://github.com/Ken-Razor/ai-translation-backend-go"><img src="https://img.shields.io/badge/VIVETALK_BACKEND-181717?style=for-the-badge&logo=github&logoColor=white" alt="ViveTalk Backend"></a>
+</p>
 
-→ [sayflash.id](https://sayflash.id)
+<p><sub>Sayflash is home to my products · ViveTalk is in active development</sub></p>
 
-## 💬 Currently building: ViveTalk
+<br>
 
-A cross-language communication app combining AI-powered translation with chat, voice, and video.
-
-- Multilingual translation and Mandarin pinyin support
-- Cross-platform app built with React Native and Expo
-- Backend built with Go, Gin, and WebSocket
-
-🚧 **In active development**
-
-[Visit ViveTalk](https://vivetalk.sayflash.id) · [Explore the backend](https://github.com/Ken-Razor/ai-translation-backend-go)
-
-## 🛠 Tech I work with
-
-React Native · Expo · React · Go · Gin · WebSocket · REST APIs
+</div>
