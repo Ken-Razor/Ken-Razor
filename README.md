@@ -29,7 +29,7 @@
 <p>
 <a href="https://sayflash.id"><img src="https://img.shields.io/badge/SAYFLASH-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Explore Sayflash"></a>
 <a href="https://vivetalk.sayflash.id"><img src="https://img.shields.io/badge/VIVETALK-14B8A6?style=for-the-badge&logo=wechat&logoColor=white" alt="Discover ViveTalk"></a>
-<a href="https://github.com/Ken-Razor/ai-translation-backend-go"><img src="https://img.shields.io/badge/VIVETALK_BACKEND-181717?style=for-the-badge&logo=github&logoColor=white" alt="ViveTalk Backend"></a>
+<a href="mailto:ken.thea16@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ken"></a>
 </p>
 
 <p><sub>Sayflash is home to my products · ViveTalk is in active development</sub></p>
